@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "list": "cpp",
+        "string": "cpp",
+        "istream": "cpp",
+        "iosfwd": "cpp",
+        "set": "cpp",
+        "xutility": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "fstream": "cpp",
+        "utility": "cpp",
+        "regex": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
